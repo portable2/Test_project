@@ -1,1 +1,2 @@
-hello from addfeature1
+hello from addfeature1\
+line user2
